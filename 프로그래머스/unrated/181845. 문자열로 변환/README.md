@@ -1,10 +1,10 @@
 # [unrated] 문자열로 변환 - 181845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=swift) 
 
 ### 성능 요약
 
-메모리: 63.2 MB, 시간: 0.01 ms
+메모리: 16.5 MB, 시간: 0.01 ms
 
 ### 구분
 
