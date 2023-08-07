@@ -1,10 +1,10 @@
 # [unrated] 푸드 파이트 대회 - 134240 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 16.5 MB, 시간: 0.06 ms
+메모리: 62.3 MB, 시간: 16.51 ms
 
 ### 구분
 
