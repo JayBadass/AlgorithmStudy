@@ -1,10 +1,10 @@
 # [unrated] 가장 가까운 같은 글자 - 142086 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 17.3 MB, 시간: 7.19 ms
+메모리: 65.4 MB, 시간: 10.81 ms
 
 ### 구분
 
